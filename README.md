@@ -1,4 +1,4 @@
-# Foodeez-Corner 🍔🍟🍕
+# Foodeez-Website 🍔🍟🍕
 
 ## Description
 
